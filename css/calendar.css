@@ -1,0 +1,30 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  }
+  
+  .header_t{
+    padding: 0px 20px;
+    background-color: rgba(244, 244, 244, 1);
+  }
+  .cal__content h2{
+    font-size: 26px;
+    color:rgba(56, 176, 0, 1) ;
+    margin-bottom: 20px;
+  }
+  .cal__content select {
+    font-size: 15px;
+    margin-bottom: 20px;
+    height: 36px;
+  }
+  .cal__content h4{
+    font-size: 21px ;
+  }
+  .cal__content  span{
+    color: rgba(130, 130, 130, 1);
+    font-size: 13px;
+  }
+  .cal__content a{
+    text-decoration: none;
+  }

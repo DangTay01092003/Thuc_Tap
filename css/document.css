@@ -1,0 +1,95 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.home-page {
+  margin-bottom: 40px !important;
+}
+
+.header_t {
+  padding: 0px 20px;
+  background-color: rgba(244, 244, 244, 1);
+}
+
+.navigation {
+  padding: 20px;
+  list-style: none;
+  align-items: center;
+}
+
+.search-content {
+  height: 36px;
+  margin-bottom: 10px;
+  width: calc(100% - 130px);
+
+}
+
+.form-control {
+  height: 37px !important;
+}
+
+.search-content .dropdown-menu1 {
+  margin-right: 0;
+  border-right: 0;
+  width: 300px;
+}
+
+.input-default {
+  height: 33px;
+  border-radius: 0px;
+  box-shadow: none !important;
+  border: none;
+  font-size: 15px !important
+}
+
+.dropdown-submit {
+  height: 36px;
+  margin: 0px 3px;
+}
+
+.dropdown-submit .button-a {
+  background: rgba(56, 176, 0, 1);
+  color: white !important;
+  /* padding: 8px 60px; */
+  /* margin-top: 20px; */
+  border-radius: 30px;
+  box-shadow: none !important;
+  border: none;
+  padding-left: 14px !important;
+  padding-right: 14px !important;
+  border-radius: 1px !important;
+  width: 125px;
+}
+
+.row_title_table {
+  background: rgba(56, 176, 0, 1);
+  color: white !important;
+  font-size: 15px;
+  font-weight: 400;
+  text-align: center;
+  vertical-align: middle;
+}
+
+
+.table tbody td {
+  border-right: 1px solid rgba(225, 225, 225, 1);
+  padding: 15px;
+}
+
+.table th,
+.table td {
+  padding: 10px;
+  /* Điều chỉnh giá trị padding theo ý bạn */
+  border: 1px solid #ccc;
+  text-align: left;
+  /* Căn chỉnh văn bản sang trái, bạn có thể thay đổi thành 'center' hoặc 'right' nếu cần */
+}
+
+.row_title_table th {
+  color: #fff !important;
+  text-align: center;
+  font-size: 15px;
+  font-weight: 400;
+}
